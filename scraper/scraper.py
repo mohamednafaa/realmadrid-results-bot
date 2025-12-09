@@ -18,6 +18,3 @@ for m in matches_cl:
     teams = m.get_text()
     if "Real Madrid" in teams:
         print("Real Madrid Champions League Match Found:", teams)
-
-
-print("Real Madrid Spain Match Found:", matches_spain)
