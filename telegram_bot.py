@@ -19,9 +19,7 @@ async def run_bot(messages, chat_id):
 
 #Test messages
 messages = [
-    'Real Madrid VS Man City',
-    '3-1',
-    'Vinicius 17, Mbappe 28, Gvardiol 54, Vinicius'
+    'Hola Boss'
 ]
 
 if messages:
